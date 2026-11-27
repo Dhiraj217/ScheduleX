@@ -1,0 +1,29 @@
+Proprietary License — All Rights Reserved
+
+Copyright (c) 2026 Dhiraj Rajai (DMR DEVELOPERS). All Rights Reserved.
+
+This software, including its source code, user interface components, API
+specifications, documentation, templates, schemas, and associated assets
+("the Software"), is the proprietary intellectual property of Dhiraj Rajai
+(DMR DEVELOPERS).
+
+Permitted Use (Public Showcase & Evaluation):
+  - Viewing the public repository and inspecting the code, documentation,
+    architecture, and API specifications solely for portfolio evaluation,
+    technical review, academic demonstration, or recruitment consideration.
+
+Prohibited Use (Without Prior Written Permission):
+  - Copying, reproducing, modifying, adapting, translating, or creating
+    derivative works of the Software in whole or in part.
+  - Redistributing, publishing, sublicensing, selling, leasing, or hosting
+    the Software for commercial or institutional use.
+  - Extracting or reverse-engineering core scheduling, optimization, or AI
+    workflows for competing products or external deployments.
+
+The proprietary backend engine (CP-SAT scheduling solver, constraint engine,
+substitution pipeline, AI/LLM modules, differential Excel ingestion, and
+background workers) is maintained separately in a private repository.
+
+For licensing inquiries, collaboration, or live demo access, contact:
+  Dhiraj Rajai — DMR DEVELOPERS
+  GitHub: https://github.com/Dhiraj217
